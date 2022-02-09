@@ -1,0 +1,10 @@
+﻿ASSIGNMENT:NO:6
+ 
+Today I have a session about the skills required for problem solving and the strategy used for the solving the problem.and also I learned about how to solve sudoku,this also taught to me in the session.
+Then I completed my presentation for door step service,which is a small initiative to solve the problem of vehicle servicing in service center periodically.By using this applications one can get service bookings,to find the service center,tracking system of vehicle not only for four wheeler but also for two wheeler and multi brand vehicle etc…
+Then we had a session in that session I newly learned about GIT HUB.GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.we learned how to install git,before that how to create a git repository and install git using yum command yum install git and press enter after installation one can create and use repository,you will:
+* Create and use a repository
+* Start and manage a new branch
+* Make changes to a file and push them to GitHub as commits
+* Open and merge a pull request.
+These are the things we learned in today internship program.

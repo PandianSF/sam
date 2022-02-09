@@ -1,0 +1,15 @@
+﻿Assignment:no:5
+
+
+Today is the 5th day of my internship.in this day I did the task about the solution that the common man facing the problem in daily life.I tried to found the solution for car or bike service in the service center.
+Problems that user/customer faces to service their vehicle:
+The main problem is user does not get the appointment for service their vehicles and also they find difficulties in finding the best service center,then they don't have enough time to do the service.these are the main problems that user can face.
+Solution to overcome this issue:
+To overcome this problem is possible to do in the modern technology.In day to day life .Everyone uses latest android mobile phones.By using this one can know about the things happened in whole world in a single hand.By creating mobile app we obtain the  solution for problem.
+Then we have a session about the vim command.vim command is used to create or edit the text file.Then I tried basic commands in vim.to use vim command,Type vim filename then press enter.After pressing the enter button vim sheet will be displayed.using this sheet we editing the text file.
+There are three types of mode in vim namely command mode,insert mode and visual mode.
+Command mode press vim or vi “filename”’
+For insert mode press ”I” then edit the text.
+For visual mode press”V” after completing this to save the file press “esc” enter then “:w” is used to save the file and “:q” is used to quit.
+After that we learned many commands like q! For over ride comment,”y” for copy the txt,”p” for paste,”u” for undo and “ctrl+r” for redo etc….
+These are I learned in today.

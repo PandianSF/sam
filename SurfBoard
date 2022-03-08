@@ -1,0 +1,34 @@
+<html>
+  <head>
+   <title>SurfBoard Notes</title>
+
+   <style>
+      .container {
+         height:100vh;
+         width:50vw;
+         background: blue;
+         text-align:center;
+         color:white;
+         }
+       .container2 {
+         height:100vh;
+         width:50vw;
+         background:white;
+         text-align:center;
+         color:white;
+    </style>
+   </head>
+   <body>
+      <div class="container">
+        <h1>Surfboard Notes</h1>
+          <img src = "Sarah's/index.jpg" alt="index.com" style="width:50px;height=50px;">
+          <img src = "Sarah's/write.jpg" alt="write.com" style="width:50px;height=50px;">
+      </div>
+       <div class="container2">
+         <h2>Sign to make a note</h2>
+       <div>
+         
+   </body>
+</html>
+         
+
